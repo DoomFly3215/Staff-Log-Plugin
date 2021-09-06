@@ -1,0 +1,4 @@
+name: StaffLog
+version: ${project.version}
+main: me.doom.fly.stafflog.StaffLog
+api-version: 1.14
